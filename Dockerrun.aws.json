@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "client",
-            "image": "dschonholtz/multi-client:latest",
+            "image": "schonholtzd/multi-client:latest",
             "hostname": "client"
         }
     ]
